@@ -1,4 +1,4 @@
-package praticalogica;
+package estruturacondicional;
 
 import java.util.Scanner;
 

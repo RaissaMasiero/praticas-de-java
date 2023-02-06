@@ -1,4 +1,4 @@
-package praticalogica;
+package estruturasequencial;
 
 public class ExFuncionario {
 
